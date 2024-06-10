@@ -1,9 +1,9 @@
 ## Hi, I'm Gustavo Oliani
 
-I'm an aspiring developer, currently learing Java / Angular (TypeScript) / MySQL
+I'm an aspiring developer, currently learning Java / Angular (TypeScript) / MySQL
 
 <a href="https://github.com/anuraghazra/GustavoOliani">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoOliani&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoOliani&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&title_color=7f00ff" />
 </a>
 <hr/>
 <h3>CONTACT INFO:</h3>
